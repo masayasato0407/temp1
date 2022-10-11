@@ -6,14 +6,5 @@ seaborn
 matplotlib
 numpy
 pandas
-torch
-pycox
-scipy
-tqdm
-numba
-optuna
 pysurvival
-lifelines
-tableone
-pygsheets # sheet google
-neptune
+
