@@ -1,7 +1,19 @@
 streamlit
-pandas
-numpy
+torch
+sklearn
+torchtuples 
+seaborn
 matplotlib
-googledrivedownloader
-pysurvival==0.1.2
-pickle5
+numpy
+pandas
+torch
+pycox
+scipy
+tqdm
+numba
+optuna
+pysurvival
+lifelines
+tableone
+pygsheets # sheet google
+neptune
