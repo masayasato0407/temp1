@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-matplotlib
-googledrivedownloader
-pysurvival
-pickle5
